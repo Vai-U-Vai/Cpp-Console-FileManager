@@ -1,0 +1,2 @@
+D:\Программы\Проекты VS\FileManager\x64\Debug\FileManager.exe
+D:\Программы\VS_Projects\FileManager\x64\Debug\FileManager.exe
